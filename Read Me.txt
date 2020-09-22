@@ -1,0 +1,11 @@
+Image -> Ascii Art, By Arvinder Sehmi (Arvinder@Sehmi.org.uk)
+
+This App Will Load An Image, Automatically Resize  And Grey Scale It.
+It Will Then Create A Copy Of The Image, But Not Using Pixels, using Text!
+The Created Images Are Best Viewed In The Font TERMINAL, Or In A Dos Window.
+
+If You Save Them, Load The Up In Notepad With The Font TERMINAL.
+(To Change Notepad's Font, Goto Edit, Then Set Font. 
+Goto TERMINAL in The List, And Set The Size To 9)
+
+If You Have Any Problems E-Mail Me.
